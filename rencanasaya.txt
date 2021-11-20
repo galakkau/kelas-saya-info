@@ -3,3 +3,4 @@ rencana saya
 2.modif website saya
 3.belajar web dev
 4.belajar css
+5.belajar java script
