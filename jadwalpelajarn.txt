@@ -1,0 +1,4 @@
+1.senin=ppkn,matematika,bahasa indonesia
+2.selasa=ipa b inggris b arab
+3.rabu=b inggris ski al quran hadist
+4.kamis= b indonesia 
