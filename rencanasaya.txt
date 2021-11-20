@@ -1,6 +1,5 @@
 rencana saya
 1.membuat website kelas
 2.modif website saya
-3.belajar web dev
-4.belajar css
-5.belajar java script
+3.belajar css
+4.belajar java script
